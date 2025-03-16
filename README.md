@@ -1,0 +1,9 @@
+Interconnection:
+P0 > HDMI_CLK_N
+P1 > HDMI_CLK_P
+P2 > HDMI_D0_N
+P3 > HDMI_D0_P
+P4 > HDMI_D1_N
+P5 > HDMI_D1_P
+P6 > HDMI_D2_N
+P7 > HDMI_D2_P
